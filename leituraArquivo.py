@@ -13,7 +13,8 @@ def readFile(filename): # cria função readfile apos busca de filename
     print(wordList, end='\n\n') # exibe as palavras encontradas e pula linha
 
     return len(wordList), len(content) # mostra quantidade de palavras na wordlist e também quantidade de letras
-    
+
 n_words, n_chars = readFile('teste.txt',)
 
-#não roda sem a indentação indicada neste código
+# não roda sem a indentação indicada neste código
+# funciona em conjunto com teste.txt, é lá que fica o texto

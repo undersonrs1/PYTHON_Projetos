@@ -1,3 +1,4 @@
+
 acum = 0 # cria acumulador acum com valor inicial de 0
 
 for x in range(0,101): # cria for com range variando entre 0 e 101

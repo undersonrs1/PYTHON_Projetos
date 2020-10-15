@@ -1,3 +1,4 @@
+
 termo1 = int (input('\nDigite o primeiro termo da progressão aritmética : '))
 
 termo2 = int (input('\nDigite o termo final da progressão aritmética : '))

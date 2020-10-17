@@ -1,3 +1,4 @@
+
 l = [] # cria lista vazia
 
 nome = input('Digite um nome para inserção na listagem : ') # solicita a digitação do nome

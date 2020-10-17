@@ -1,3 +1,4 @@
+
 altura = input('Digite a sua altura : ')
 sexo = input ('Digite m para sexo masculino ou f para feminino : ')
 

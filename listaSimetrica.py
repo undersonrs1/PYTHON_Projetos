@@ -1,3 +1,4 @@
+
 def simetrica(m):
     nlinhas = len(m)
     ncolunas = len(m[0])

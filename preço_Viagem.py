@@ -1,3 +1,4 @@
+
 dist = float(input('\nQuantos kilometros terá a sua viagem? : '))
 
 if dist >= 200:

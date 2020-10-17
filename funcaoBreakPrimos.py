@@ -1,3 +1,4 @@
+
 def primo(num):
     i=2
     while i<num:

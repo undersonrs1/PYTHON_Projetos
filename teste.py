@@ -1,3 +1,4 @@
+
 a=input('Digite um numero : ')
 print (type (a))
 

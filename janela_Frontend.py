@@ -1,3 +1,4 @@
+
 from tkinter import *
 class Gui():
     """Classe que define a interface grafica da aplicação

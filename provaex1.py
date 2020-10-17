@@ -1,3 +1,4 @@
+
 var = eval(input('Digite um número: '))
 
 if var == 5:

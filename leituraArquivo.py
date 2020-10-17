@@ -1,3 +1,4 @@
+
 def readFile(filename): # cria função readfile apos busca de filename
 
     infile = open(filename, 'r') # associa o comando de leitura de arquivo ao filename indicado

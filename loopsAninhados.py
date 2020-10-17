@@ -1,3 +1,4 @@
+
 str_list = ['Roberto','Joao','Rafael'] # cria lista str_list - lista de strings
 
 for nome in str_list: # criação do for para verificar nomes em str_list

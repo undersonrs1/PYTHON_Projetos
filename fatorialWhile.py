@@ -1,3 +1,4 @@
+
 def nfat(L):
     n=0
     fat=1

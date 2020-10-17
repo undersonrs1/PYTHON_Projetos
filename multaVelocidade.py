@@ -1,3 +1,4 @@
+
 vel = int(input('Qual foi a velocidade que passou naquela rua? : '))
 if vel >= 80:
     print('Você excedeu o limite da velocidade')

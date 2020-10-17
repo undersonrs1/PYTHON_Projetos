@@ -1,3 +1,4 @@
+
 media1 = float(input('Digite a sua primeira nota : '))
 media2 = float(input('Digite a sua segunda nota : '))
 mf = (media1+media2)/2

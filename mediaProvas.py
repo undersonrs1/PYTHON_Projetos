@@ -1,3 +1,4 @@
+
 n1 = eval(input('Digite a sua primeira nota : '))
 n2 = eval(input('Digite a sua segunda nota : '))
 n3 = eval(input('Digite a sua segunda nota : '))

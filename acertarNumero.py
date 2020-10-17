@@ -1,3 +1,4 @@
+
 import random
 r = random.randint(0,5)
 chute = int(input('Tente acertar um número entre 0 e 5 que pensei : '))

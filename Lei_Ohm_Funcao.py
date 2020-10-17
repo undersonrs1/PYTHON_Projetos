@@ -1,3 +1,4 @@
+
 def ohmTensao (r,i):
     tensao = r * i
     return tensao

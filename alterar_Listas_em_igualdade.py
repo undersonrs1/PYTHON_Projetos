@@ -15,3 +15,6 @@ b[0] = 1
 print('\nNeste segundo caso, as listas ficam diferentes, pois b recebe apenas uma cópia dos itens de a em [:]')
 print('\na : {}'.format (a))
 print('b : {}'.format (b), end="\n\n")
+
+print('O menor numero em a é {} e o maior é {}'.format(min(a),max(a)))
+print('\nO menor numero em b é {} e o maior é {}'.format(min(b),max(b)))

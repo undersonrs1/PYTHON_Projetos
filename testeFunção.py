@@ -1,3 +1,4 @@
+
 def  potencia (base , expoente ):
     resultado = base ** expoente
     return resultado

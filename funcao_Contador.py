@@ -1,3 +1,4 @@
+
 def contador(inicio, fim, incremento):
     for a in range (inicio, fim, incremento):
         print (a, end=' ')

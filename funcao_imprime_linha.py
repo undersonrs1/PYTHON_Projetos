@@ -1,16 +1,17 @@
-def lin():
-    print ('-' * 30)
+def mensagem(txt):
+    print()
+    print ('-' * 35)
+    print (txt)
+    print ('-' * 35)
+    
+
+mensagem('Curso de Python')
+mensagem('Aprendendo Definição de Funções')
 
 
-for a in range(0 , 1):
-    lin()
-    print('a' * 30)
-    lin()
-    print()
-    print()
-    lin()
-    print('b' * 30)
-    lin ()
+ 
+
+ 
 
 
 

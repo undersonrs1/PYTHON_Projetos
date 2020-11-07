@@ -6,3 +6,12 @@ def bubble_sort (lista):
                 # troca de elementos nas posições i e i+1
                 lista[i], lista[i+1] = lista[i+1], lista[i]
 
+b = [5,3,1,2,4]
+a = bubble_sort (b)
+a = b
+
+print()
+print(a)
+print()
+
+

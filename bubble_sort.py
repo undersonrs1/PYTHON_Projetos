@@ -8,15 +8,15 @@ def bubble_sort (lista):
 
 b = [5,3,1,2,4]
 
-print()
+print('')
 print (b)
 
 a = bubble_sort (b)
 a = b
 
-print()
+print('')
 print(a)
-print()
+print('')
 
 
 
